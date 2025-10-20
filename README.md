@@ -79,3 +79,6 @@ product_category_name_english - category name in English <br>
 
 
 ### 4. Relationships of datasets
+order_id is in 4 tables, product_id is in 2 tables. 
+
+### 5. Questions for analysis

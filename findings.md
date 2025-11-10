@@ -166,12 +166,37 @@ Mid-recency, low spend: $52.86 avg, 198 days <br>
 19.8% of customer base and mixed characterisitics <br> 
 
 ### Actions: <br> 
-Further segmentation recommended <br>
-Automated nurture campaigns <br>
-Monitor for movement to defined segments <br>
+1. Further segmentation recommended <br>
+2. Automated nurture campaigns <br>
+3. Monitor for movement to defined segments <br>
 
+## Key Insights and Learning: <br>
+1. Dataset characteristics: One-Time Purchase is dominant <br>
+Finding: 95%+ of customers made only a single purchase (avg items = 1.0-1.4 across all segments) <br>
+Implication: <br>
+1. Traditional "Frequency" in RFM is less meaningful <br>
+2. Focus shifted to Recency + Monetary value <br>
+3. Retention is more critical than initially expected <br>
 
+### Business recommendations <br> 
+1. Invest heavily in first-purchase experience <br>
+2. Implement strong post-purchase follow-up <br>
+3. Create compelling reasons to return (loyalty program, subscription model) <br>
 
+## Revenue Concentration: The 8% Rule <br> 
+Finding: 8% of customers (VIP segments) generate 37% of revenue <br>
+Small group of high-value customers drives business <br>
+Proactive engagement before they show churn signals <br> 
+
+### Time to Churn: The 6 Month Window <br> 
+Finding: Customers who haven't purchased in 6+ months (Cooling Down) rapidly progress to At Risk status <br>
+120-day mark is critical intervention point <br>
+"Cooling" is the last easy save opportunity <br>
+Once customers hit 270+ days, recovery becomes expensive <br> 
+### Actions <br> 
+Automated triggers at 90, 120, and 180 days <br> 
+Progressive incentive escalation (10% -> 15% -> 25%) 
+Early warning system for high-value custoemrs <br> 
 
 
 ### SQL query <br>

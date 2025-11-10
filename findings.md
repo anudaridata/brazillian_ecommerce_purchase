@@ -83,13 +83,27 @@ Largest at-risk group by count <br>
 Revenue at risk: 2,601,098 million <br>
 Largest revenue segment currently at risk <br>
 ### Actions <br> 
-Discount offers (Ex: 25% discount offer) <br>
-New product since you have been gone email and showcae it <br> 
-Automated email win-back series (3 emails over 2 weeks) 
-Retargeting ads on social media <br> 
-Free shipping incentive <br> 
-Survey to understand departure reasons <br> 
-Product recommendations based on browsing history <br>
+1. Discount offers (Ex: 25% discount offer) <br>
+2. New product since you have been gone email and showcae it <br>
+3. Automated email win-back series (3 emails over 2 weeks)
+4. Retargeting ads on social media <br>
+5. Free shipping incentive <br>
+6. Survey to understand departure reasons <br>
+7. Product recommendations based on browsing history <br>
+
+### Growth Opportunity Segment <br> 
+Mid-Value Active (5094 customers| 831 thousand in revenue) <br> 
+Active engagement: 84 days sicne last purchase <br>
+Moderate spend: 163.13 average <br> 
+Business Impact: <br>
+Currently 6.3% of revenue <br> 
+Active engagement = high potential <br>
+Close to VIP threshold $300 - need only $137 dollars more
+Upsell Strategy <br> 
+Bundle deals that push cart value to $300+ <br>
+Incentive programs 'Spend 300$, get $50 credit for next purchase' <br>
+Loyalty points accelerator (2x points this month) <br>
+
 
 
    

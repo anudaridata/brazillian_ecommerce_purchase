@@ -46,7 +46,7 @@ Low-Value (<$100): <br>
 - Churned (270+ days) → Low-Value Churned <br>
 
 ## Next Action <br> 
-### VIP at Risk (3871 customers, 2.4 million revenue) <br>
+### 1. VIP at Risk (3871 customers, 2.4 million revenue) <br>
 They have the highest historical spend: 629.75 average <br>
 Have not purchased in 421 days (14 months) <br>
 Higher basket size 1.4 VS 1.0 <br>
@@ -57,7 +57,7 @@ Product quality issues <br>
 Poor customer service <br> 
 Pricing concerns <br> 
 
-### VIP Cooling down (2716 customers, 1.7 million revenue) <br>
+### 2.VIP Cooling down (2716 customers, 1.7 million revenue) <br>
 High historical spend: 622.9 average <br>
 Last purchase 194 days ago (around 6 months)
 12.8% of total revenue starting to slip away <br>
@@ -74,6 +74,22 @@ Natural purchase cycle gap
 2. Personalized product recommendations via emal <br>
 3. Showcase new arrivals relevant ot past purchases <br>
 
+### 3. Mid Value at Risk (15472 customers, 2.6 million revenue) <br>
+Moderate historical spent: 168.12 <br> 
+Last purchase: 413 days ago <br>
+Largest revenue percentage segment: 19.7 % <br>
+Largest at-risk group by count <br>
+### Business Impact <br> 
+Revenue at risk: 2,601,098 million <br>
+Largest revenue segment currently at risk <br>
+### Actions <br> 
+Discount offers (Ex: 25% discount offer) <br>
+New product since you have been gone email and showcae it <br> 
+Automated email win-back series (3 emails over 2 weeks) 
+Retargeting ads on social media <br> 
+Free shipping incentive <br> 
+Survey to understand departure reasons <br> 
+Product recommendations based on browsing history <br>
 
 
    

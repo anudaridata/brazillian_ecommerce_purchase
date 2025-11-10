@@ -91,18 +91,91 @@ Largest revenue segment currently at risk <br>
 6. Survey to understand departure reasons <br>
 7. Product recommendations based on browsing history <br>
 
+### 4. VIP Active (1,149 customers | $736K revenue) <br> 
+Highest spend + most recent: $640.45 average, 84 days recency <br>
+Only 1.2% of customer base <br> 
+Highest basket size: 1.4 items on average <br> 
+### Business Impact: <br> 
+Current revenue $733,850 (5.6%) <br>
+Lifetime value is extremely high <br> 
+
+### Actions: <br>
+1. Welcome to VIP program email <br>
+2. Dedicated account manager assignment <br>
+3. Exclusive thank you gift <br>
+4. Request review on products <br>
+5. Free expedited shipping on all orders <br>
+6. Priority customer service (dedicated line/email) <br>
+   
 ### Growth Opportunity Segment <br> 
-Mid-Value Active (5094 customers| 831 thousand in revenue) <br> 
+5. Mid-Value Active (5094 customers| 831 thousand in revenue) <br> 
 Active engagement: 84 days sicne last purchase <br>
 Moderate spend: 163.13 average <br> 
-Business Impact: <br>
+
+### Business Impact: <br>
 Currently 6.3% of revenue <br> 
 Active engagement = high potential <br>
 Close to VIP threshold $300 - need only $137 dollars more
-Upsell Strategy <br> 
-Bundle deals that push cart value to $300+ <br>
-Incentive programs 'Spend 300$, get $50 credit for next purchase' <br>
-Loyalty points accelerator (2x points this month) <br>
+### Actions: <br>
+1. Upsell Strategy <br>
+2. Bundle deals that push cart value to $300+ <br>
+3. Incentive programs 'Spend 300$, get $50 credit for next purchase' <br>
+4. Loyalty points accelerator (2x points this month) <br>
+
+### 6. Mid value Cooling (11,659 customers | 1.9M revenue) <br> 
+Moderate spend + moderate recency: 164.29 average spending, 196 days average recency <br>
+14.5% of revenue <br> 
+Largest mid-value segment <br>
+Early intervention opportunity <br>
+
+Business Impact: <br> 
+Revenue cooling: $1,915,424 <br> 
+Catching them early = higher success reate than "At Risk" <br>
+Large volume = significant total impact potential <br>
+
+### Actions: <br>
+1."Based on your last purchase" product emails <br>
+2. Seasonal reminders (e.g., "Holiday shopping made easy")
+3. Replenishment reminders for consumable products <br> 
+4. Incentives: 15% discount "welcome back" offer , free shipping on next order, loyalty points bonus
+
+### 7. Low-Value Recent (8,690 customers | $455K revenue) <br>
+Recent but low spend: 52.34$ avg, 83 days <br>
+9% customer base <br> 
+Potential new customers still evaluating <br>
+
+### Actions: <br> 
+1. Nurture sequence to increase order value <br>
+2. Cross sell complementary items <br>
+3. Loyalty program enrollment <br>
+Goal: Upgrade 20% to Mid-Value tier within 6 months <br>
+
+### 8. Low-Value Churned (28,765 customers | $1.5M revenue) <br>
+Low spend + old: $53.75 avg, 415 days <br>
+Largest segment by count (29.8%) <br>
+
+### Actions: <br> 
+1. Minimal investment (low-cost email only) <br>
+2. Remove from expensive marketing channels <br>
+3. One final "last chance" offer <br>
+4. If no response in 90 days → suppress from active marketing <br>
+Goal: Reduce marketing waste and focus those resources on high-value segments <br>
+
+### 9. Others (19,062 customers | $1.0M revenue) 
+Mid-recency, low spend: $52.86 avg, 198 days <br>
+19.8% of customer base and mixed characterisitics <br> 
+
+### Actions: <br> 
+Further segmentation recommended <br>
+Automated nurture campaigns <br>
+Monitor for movement to defined segments <br>
+
+
+
+
+
+### SQL query <br>
+Full analysis code available at https://github.com/anudaridata/brazillian_ecommerce_purchase/blob/main/01_rfm_analysis_final.sql
 
 
 

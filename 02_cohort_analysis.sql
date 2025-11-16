@@ -35,7 +35,6 @@ cohort_sizes as (
 
 SELECT crr.cohort_month, crr.months_since_first_purchase, 
 crr.customer_count, cohort_sizes.total_customers,
-(crr.customer_count * 100.0 / cohort_sizes.total_customers) as retention_rate, 
-SUM(crr.customer_count) / 23 as average_cohort_size
+(crr.customer_count * 100.0 / cohort_sizes.total_customers) as retention_rate
 FROM cohort_retention_rate crr
 JOIN cohort_sizes ON crr.cohort_month = cohort_sizes.cohort_month

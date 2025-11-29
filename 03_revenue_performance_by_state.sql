@@ -35,7 +35,7 @@ WITH state_revenue AS
     WHERE o.order_status = 'delivered'
     GROUP BY c.customer_state
 ),
-
+    
 top_5_states AS 
 (
     SELECT ROUND(SUM(state_total_revenue),2) as top5_revenue
@@ -46,7 +46,7 @@ top_5_states AS
         LIMIT 5
     )
 ),
-
+    
 total_revenue AS 
 (SELECT ROUND(SUM(state_total_revenue), 2) as sum_total_revenue
     FROM state_revenue)
@@ -55,7 +55,7 @@ SELECT CAST(top5_revenue as INTEGER) as top5_revenue,
 CAST(sum_total_revenue as INTEGER) as sum_total_revenue,
 ROUND((top5_revenue * 100.0/ sum_total_revenue), 1) as percentage_of_total
 FROM top_5_states, total_revenue
-
+    
 -- most popular product categories in each region
 SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
 c.customer_state,

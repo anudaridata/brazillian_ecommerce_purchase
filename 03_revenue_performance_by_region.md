@@ -28,5 +28,6 @@ PR	Parana	781919.55 <br>
 
 ## Finding 2: Most Popular Product Categories by Region <br>
 
-
+## Top 3 Categories by major state: <br> 
+- 
   

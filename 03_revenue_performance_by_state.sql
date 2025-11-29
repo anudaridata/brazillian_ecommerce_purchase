@@ -16,3 +16,50 @@ WHERE o.order_status = 'delivered'
 GROUP BY c.customer_state
 ORDER BY total_revenue DESC
 LIMIT 5;
+
+-- most popular product categories in each region
+SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
+c.customer_state,
+  CASE c.customer_state 
+        WHEN 'AC' THEN 'Acre'
+        WHEN 'AL' THEN 'Alagoas'
+        WHEN 'AM' THEN 'Amazonas'
+        WHEN 'AP' THEN 'Amapá'
+        WHEN 'BA' THEN 'Bahia'
+        WHEN 'CE' THEN 'Ceará'
+        WHEN 'DF' THEN 'Federal District'
+        WHEN 'ES' THEN 'Espírito Santo'
+        WHEN 'MA' THEN 'Maranhão'
+        WHEN 'GO' THEN 'Goiás'
+        WHEN 'MG' THEN 'Minas Gerais'
+        WHEN 'MS' THEN 'Mato Grosso do Sul'
+        WHEN 'MT' THEN 'Mato Grosso'
+        WHEN 'MS' THEN 'Mato Grosso do Sul'
+        WHEN 'PA' THEN 'Pará'
+        WHEN 'PB' THEN 'Paraíba'
+        WHEN 'PE' THEN 'Pernambuco'
+        WHEN 'PI' THEN 'Piauí'
+        WHEN 'PR' THEN 'Paraná'
+        WHEN 'RJ' THEN 'Rio de Janeiro'
+        WHEN 'RN' THEN 'Rio Grande do Norte'
+        WHEN 'RO' THEN 'Rondônia'
+        WHEN 'RS' THEN 'Rio Grande do Sul'
+        WHEN 'SE' THEN 'Sergipe'
+        WHEN 'SP' THEN 'São Paulo'
+        WHEN 'SC' THEN 'Santa Catarina'
+        WHEN 'TO' THEN 'Tocantins'
+    END as customer_state_full
+FROM products p
+JOIN order_items oi  on oi.product_id = p.product_id
+JOIN orders o on oi.order_id = o.order_id
+JOIN customers c on c.customer_id = o.customer_id
+JOIN payments ps on ps.order_id = o.order_id
+JOIN category ca on ca.product_category_name = p.product_category_name
+WHERE o.order_status = 'delivered'
+AND p.product_category_name IS NOT NULL
+GROUP BY p.product_category_name, c.customer_state
+ORDER BY c.customer_state, total_payment DESC
+LIMIT 10;
+
+
+

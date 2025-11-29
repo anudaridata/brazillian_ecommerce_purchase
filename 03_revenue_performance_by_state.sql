@@ -57,6 +57,7 @@ ROUND((top5_revenue * 100.0/ sum_total_revenue), 1) as percentage_of_total
 FROM top_5_states, total_revenue
     
 -- most popular product categories in each region
+WITH category_by_state AS(
 SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
 c.customer_state,
   CASE c.customer_state 
@@ -87,7 +88,8 @@ c.customer_state,
         WHEN 'SP' THEN 'São Paulo'
         WHEN 'SC' THEN 'Santa Catarina'
         WHEN 'TO' THEN 'Tocantins'
-    END as customer_state_full
+    END as customer_state_full,
+    ROW_NUMBER() OVER (PARTITION BY c.customer_state ORDER BY SUM(ps.payment_value) DESC) as rank
 FROM products p
 JOIN order_items oi  on oi.product_id = p.product_id
 JOIN orders o on oi.order_id = o.order_id
@@ -97,8 +99,18 @@ JOIN category ca on ca.product_category_name = p.product_category_name
 WHERE o.order_status = 'delivered'
 AND p.product_category_name IS NOT NULL
 GROUP BY p.product_category_name, c.customer_state
-ORDER BY c.customer_state, total_payment DESC
-LIMIT 10;
+)
+
+SELECT 
+    customer_state,
+    customer_state_full,
+    product_category_name_english,
+    total_payment,
+    rank
+FROM category_by_state
+WHERE rank <= 3
+ORDER BY customer_state, rank;
+
 
 
 

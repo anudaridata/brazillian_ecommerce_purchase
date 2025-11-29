@@ -31,3 +31,6 @@ Retention rate = (Customers returning in month N / Total cohort size) * 100 <br>
 This pattern suggests Olist Operates primarily as a one-time purchase marketplace <br>
 - Potential product/service satisfaction issues <br>
 - Limited post-purchase engagement or follow-up <br>
+
+### Finding 2: Most popular product categories by product: <br>
+

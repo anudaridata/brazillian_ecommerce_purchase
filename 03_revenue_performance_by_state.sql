@@ -88,6 +88,7 @@ c.customer_state,
         WHEN 'SP' THEN 'São Paulo'
         WHEN 'SC' THEN 'Santa Catarina'
         WHEN 'TO' THEN 'Tocantins'
+        WHEN 'RR' THEN 'Roraima'
     END as customer_state_full,
     ROW_NUMBER() OVER (PARTITION BY c.customer_state ORDER BY SUM(ps.payment_value) DESC) as rank
 FROM products p
@@ -110,6 +111,7 @@ SELECT
 FROM category_by_state
 WHERE rank <= 3
 ORDER BY customer_state, rank;
+
 
 
 

@@ -113,6 +113,73 @@ WHERE rank <= 3
 ORDER BY customer_state, rank;
 
 
+-- product category concentration for each state 
+
+WITH category_by_state AS(
+SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
+c.customer_state,
+  CASE c.customer_state 
+        WHEN 'AC' THEN 'Acre'
+        WHEN 'AL' THEN 'Alagoas'
+        WHEN 'AM' THEN 'Amazonas'
+        WHEN 'AP' THEN 'Amapá'
+        WHEN 'BA' THEN 'Bahia'
+        WHEN 'CE' THEN 'Ceará'
+        WHEN 'DF' THEN 'Federal District'
+        WHEN 'ES' THEN 'Espírito Santo'
+        WHEN 'MA' THEN 'Maranhão'
+        WHEN 'GO' THEN 'Goiás'
+        WHEN 'MG' THEN 'Minas Gerais'
+        WHEN 'MS' THEN 'Mato Grosso do Sul'
+        WHEN 'MT' THEN 'Mato Grosso'
+        WHEN 'MS' THEN 'Mato Grosso do Sul'
+        WHEN 'PA' THEN 'Pará'
+        WHEN 'PB' THEN 'Paraíba'
+        WHEN 'PE' THEN 'Pernambuco'
+        WHEN 'PI' THEN 'Piauí'
+        WHEN 'PR' THEN 'Paraná'
+        WHEN 'RJ' THEN 'Rio de Janeiro'
+        WHEN 'RN' THEN 'Rio Grande do Norte'
+        WHEN 'RO' THEN 'Rondônia'
+        WHEN 'RS' THEN 'Rio Grande do Sul'
+        WHEN 'SE' THEN 'Sergipe'
+        WHEN 'SP' THEN 'São Paulo'
+        WHEN 'SC' THEN 'Santa Catarina'
+        WHEN 'TO' THEN 'Tocantins'
+        WHEN 'RR' THEN 'Roraima'
+    END as customer_state_full,
+    ROW_NUMBER() OVER (PARTITION BY p.product_category_name ORDER BY SUM(ps.payment_value) DESC) as rank
+FROM products p
+JOIN order_items oi  on oi.product_id = p.product_id
+JOIN orders o on oi.order_id = o.order_id
+JOIN customers c on c.customer_id = o.customer_id
+JOIN payments ps on ps.order_id = o.order_id
+JOIN category ca on ca.product_category_name = p.product_category_name
+WHERE o.order_status = 'delivered'
+AND p.product_category_name IS NOT NULL
+GROUP BY p.product_category_name, c.customer_state
+),
+
+category_totals AS (
+    SELECT product_category_name_english, sum(total_payment) as category_total_revenue
+    FROM category_by_state
+    GROUP BY product_category_name_english
+)
+
+SELECT 
+    cbs.product_category_name_english, 
+    cbs.customer_state,
+    cbs.customer_state_full,
+    cbs.total_payment,
+    cbs.rank,
+    ROUND(cbs.total_payment * 100.0 / ct.category_total_revenue, 2) as pct_of_category
+FROM category_by_state cbs
+JOIN category_totals ct ON cbs.product_category_name_english = ct.product_category_name_english
+WHERE cbs.rank <= 3
+ORDER BY cbs.product_category_name_english, cbs.rank;
+
+
+
 
 
 

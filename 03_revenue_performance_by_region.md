@@ -10,12 +10,8 @@
 ## Finding 1: Top 5 states by revenue <br>
 ### Key Results: <br>
 
-customer_state	state_name	total_revenue <br>
-SP	Sao Paulo	5,770,266.19 <br>
-RJ	Rio de Janeiro	2,055,690.45 <br>
-MG	Minas Gerais	1,819,277.61 <br>
-RS	Rio Grande do Sul	861,802.4 <br>
-PR	Parana	781919.55 <br>
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/e44266e3-b8d3-47ce-bfe0-33340cb8822d" />
+
 
 ### Insights from Finding 1: <br>
 - Sao Paulo dominates the e-commerce market, generating nearly 3x times more revenue (and 37.4% of total_revenue) than the second place state (Rio de Janeiro) <br>

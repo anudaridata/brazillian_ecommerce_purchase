@@ -2,8 +2,9 @@
 ### Sub-questions: <br>
 1. What are the top 5 states by revenue <br>
 2. What are the most popular product categories in each region? <br>
-3. Which categories show the fastest revenue growth month-over-month? <br>
-4. What is the revenue concentration (% from top categories)? <br>
+3. Which categories generate mosrt revenue and how does it differ across teh states in Brazil? <br>
+4. Which categories show the fastest revenue growth month-over-month? <br>
+5. What is the revenue concentration (% from top categories)? <br>
 
 ## Key Findings: <br>
 ## Finding 1: Top 5 states by revenue <br>
@@ -29,5 +30,23 @@ PR	Parana	781919.55 <br>
 ## Finding 2: Most Popular Product Categories by Region <br>
 
 ## Top 3 Categories by major state: <br> 
-- 
+
+
+
+## Which categories generate most revenue and how does it differ accross states in Brazil? <br> 
+<img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/86dd7ccd-92e5-49b3-a71d-5e593de49367" /> <br>
+## Key Findings: <br> 
+### Geographic Concentration <br> 
+- Top 10 revenue-generating categories are dominated by 3 southeastern states: Sao Paulo, Rio de Janeiro, and Minas Gerais <br>
+### Category Performance <br>
+- Top 10 categories that generate the most revenue are: auto, bed_bath_table, computers_accessories, cool_stuff, furniture_decor, garden_tools, health_beauty, housewaves, sports_leisure, watches_gifts <br>
+- These categories align with the affluent demographics of Brazil's wealthiest regions <br>
+### Business Implications <br>
+- Strong existing market presence in these 3 states suggest opportunities for deepr market penetration through targeted marketing <br>
+- Revenue concentration in southeastern Brazil presents both an advantage (established customer base) and a risk (limited geographic diversification) <br> 
+
+
+
+
+
   

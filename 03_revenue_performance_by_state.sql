@@ -56,7 +56,7 @@ CAST(sum_total_revenue as INTEGER) as sum_total_revenue,
 ROUND((top5_revenue * 100.0/ sum_total_revenue), 1) as percentage_of_total
 FROM top_5_states, total_revenue
     
--- most popular product categories in each region
+-- Top 3 categories per state 
 WITH category_by_state AS(
 SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
 c.customer_state,
@@ -113,7 +113,7 @@ WHERE rank <= 3
 ORDER BY customer_state, rank;
 
 
--- product category concentration for each state 
+-- Top 3 states per category
 
 WITH category_by_state AS(
 SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 

@@ -1,13 +1,14 @@
 ## Question 3: Revenue and Performance by Region
 ### Sub-questions: <br>
 1. What are the top 5 states by revenue <br>
-2. What are the most popular product categories in each region? <br>
-3. Which categories generate mosrt revenue and how does it differ across teh states in Brazil? <br>
-4. Which categories show the fastest revenue growth month-over-month? <br>
-5. What is the revenue concentration (% from top categories)? <br>
+2. What are the top 3 popular product categories in each region? <br>
+3. What are the top 3 states per category? <br>
+4. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
+5. Which categories show the fastest revenue growth month-over-month? <br>
+6. What is the revenue concentration (% from top categories)? <br>
 
 ## Key Findings: <br>
-## Finding 1: Top 5 states by revenue <br>
+## 1. Top 5 states by revenue <br>
 ### Key Results: <br>
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/e44266e3-b8d3-47ce-bfe0-33340cb8822d" />
@@ -23,16 +24,19 @@
 - Warehouse/fulfillment centers optimally located in Southeast <br>
 - Consider regional partnerships to expand beyond top 5 sales <br>
 
-## Finding 2: Most Popular Product Categories by Region <br>
+## 2. What are the top 3 popular categories in each region? <br>
 
-## Top 3 Categories by major state: <br> 
+### Top 3 Categories by major state: <br> 
+
+## 3. What are the top 3 states per category? <br> 
 
 
 
-## Which categories generate most revenue and how does it differ accross states in Brazil? <br> 
+## 4. Which categories generate most revenue and how does it differ accross Top 3 states in Brazil? <br> 
 <img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/86dd7ccd-92e5-49b3-a71d-5e593de49367" /> <br>
 ## Key Findings: <br> 
 ### Geographic Concentration <br> 
+- For the ease of calculation, I focused on Top 10 categories <br> 
 - Top 10 revenue-generating categories are dominated by 3 southeastern states: Sao Paulo, Rio de Janeiro, and Minas Gerais <br>
 ### Category Performance <br>
 - Top 10 categories that generate the most revenue are: auto, bed_bath_table, computers_accessories, cool_stuff, furniture_decor, garden_tools, health_beauty, housewaves, sports_leisure, watches_gifts <br>

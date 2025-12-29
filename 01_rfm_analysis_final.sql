@@ -30,7 +30,7 @@ rmb_combined AS (
 customer_segments AS (
     SELECT *, 
     CASE 
-        -- VIP: Spent $300+
+        -- VIP: Spent $300+ 
         WHEN total_spent >= 300 AND recency_days <= 120 THEN 'VIP Active'
         WHEN total_spent >= 300 AND recency_days > 120 AND recency_days <= 270 THEN 'VIP Cooling Down'
         WHEN total_spent >= 300 AND recency_days > 270 THEN 'VIP At Risk'

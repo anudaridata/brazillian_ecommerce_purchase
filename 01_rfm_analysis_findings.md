@@ -2,6 +2,9 @@
 ## Result Table 
 <img width="1250" height="317" alt="Screenshot 2025-11-10 at 0 29 02" src="https://github.com/user-attachments/assets/1c2aa8be-43d9-4045-bbcd-4eb534823f58" />
 
+<img width="873" height="450" alt="customer_segments" src="https://github.com/user-attachments/assets/ab0b4a5a-4738-4c0f-8b09-fced91b36e60" />
+
+
 ## Key Findings: <br>
 1. VIP customers (7736 customers, 8% in total) generate 4,865,465 in revenue (36.8% of total). However, 6587 of these VIP customers (85%) are in 'Cooling' or 'At Risk' status  <br>
 2. Combined "At Risk" and "Cooling" segments ( VIP at Risk, VIP Cooling, Mid-Value at Risk, Mid-Value Cooling) represent 6,645,499 (50.3% of total revenue) and they have not purchased in 6+ months (recency > 180 days)  <br>

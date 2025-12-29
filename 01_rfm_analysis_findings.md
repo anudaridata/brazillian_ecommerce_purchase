@@ -15,20 +15,6 @@ This dataset exhibits characteristics of predominantly single-purchase customer 
 
 ## Methodology <br> 
 This analysis uses a modified RFM (Recency, Frequency, Monetary) segmentation approach optimized for an e-commerce dataset with predominantly single-purchase customers. <br>
-## Key metrics <br>
-Recency: Days since last purchase (as of October 17, 2018) <br>
-
-Active: ≤ 120 days (~4 months) <br>
-Cooling: 121-270 days (~4-9 months) <br>
-At Risk/Churned: 270+ days (~9+ months) <br>
-
-Monetary Value: Total amount spent (lifetime) <br>
-
-VIP: $300+ <br>
-Mid-Value: $100-$299 <br>
-Low-Value: < $100 <br>
-
-Frequency (Basket): Total order items purchased <br>
 
 ### Segmentation Logic <br> 
 Customers were classified into 9 segments based on the intersection of their value tier and recency status: <br>

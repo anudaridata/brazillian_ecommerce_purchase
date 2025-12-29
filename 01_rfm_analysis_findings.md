@@ -2,8 +2,7 @@
 ## Result Table 
 <img width="1250" height="317" alt="Screenshot 2025-11-10 at 0 29 02" src="https://github.com/user-attachments/assets/1c2aa8be-43d9-4045-bbcd-4eb534823f58" />
 
-<img width="873" height="450" alt="customer_segment-newplot" src="https://github.com/user-attachments/assets/5eb7d691-be00-41e4-8ccd-949e125fb4e4" />
-
+<img width="873" height="450" alt="image" src="https://github.com/user-attachments/assets/645c5d09-98bc-4b03-8547-522c755b581f" />
 
 
 ## Key Findings: <br>

@@ -182,6 +182,7 @@ Finding: Customers who haven't purchased in 6+ months (Cooling Down) rapidly pro
 120-day mark is critical intervention point <br>
 "Cooling" is the last easy save opportunity <br>
 Once customers hit 270+ days, recovery becomes expensive <br> 
+
 ### Actions <br> 
 Automated triggers at 90, 120, and 180 days <br> 
 Progressive incentive escalation (10% -> 15% -> 25%) 

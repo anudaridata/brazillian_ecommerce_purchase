@@ -36,41 +36,41 @@ Low-Value (<$100): <br>
 
 ## Next Action <br> 
 ### 1. VIP at Risk (3871 customers, 2.4 million revenue) <br>
-They have the highest historical spend: 629.75 average <br>
-Have not purchased in 421 days (14 months) <br>
-Higher basket size 1.4 VS 1.0 <br>
-2.4 million revenue at risk <br>
+- They have the highest historical spend: 629.75 average <br>
+- Have not purchased in 421 days (14 months) <br>
+- Higher basket size 1.4 VS 1.0 <br>
+- 2.4 million revenue at risk <br>
 
 ### Why they have left? (Hypothesis) <br>
-Product quality issues <br>
-Poor customer service <br> 
-Pricing concerns <br> 
+- Product quality issues <br>
+- Poor customer service <br> 
+- Pricing concerns <br> 
 
 ### 2.VIP Cooling down (2716 customers, 1.7 million revenue) <br>
-High historical spend: 622.9 average <br>
-Last purchase 194 days ago (around 6 months)
-12.8% of total revenue starting to slip away <br>
-Still within saveable range <br>
-Revenue cooling 1.691.807 <br>
+- High historical spend: 622.9 average <br>
+- Last purchase 194 days ago (around 6 months)
+- 12.8% of total revenue starting to slip away <br>
+- Still within saveable range <br>
+- Revenue cooling 1.691.807 <br>
 Business Impact <br>
-If no actions get taken, they might become "VIP at Risk" too <br> 
+- If no actions get taken, they might become "VIP at Risk" too <br> 
 ### Why they are cooling (Hypothesis) <br>
-Competitors might be winning <br>
-Lost engagement with brand <br>
-Natural purchase cycle gap
+- Competitors might be winning <br>
+- Lost engagement with brand <br>
+- Natural purchase cycle gap
 ### Actions that can be taken: <br>
 1. We miss you campaign with 20% discount <br>
 2. Personalized product recommendations via emal <br>
 3. Showcase new arrivals relevant ot past purchases <br>
 
 ### 3. Mid Value at Risk (15472 customers, 2.6 million revenue) <br>
-Moderate historical spent: 168.12 <br> 
-Last purchase: 413 days ago <br>
-Largest revenue percentage segment: 19.7 % <br>
-Largest at-risk group by count <br>
+- Moderate historical spent: 168.12 <br> 
+- Last purchase: 413 days ago <br>
+- Largest revenue percentage segment: 19.7 % <br>
+- Largest at-risk group by count <br>
 ### Business Impact <br> 
-Revenue at risk: 2,601,098 million <br>
-Largest revenue segment currently at risk <br>
+- Revenue at risk: 2,601,098 million <br>
+- Largest revenue segment currently at risk <br>
 ### Actions <br> 
 1. Discount offers (Ex: 25% discount offer) <br>
 2. New product since you have been gone email and showcae it <br>
@@ -81,12 +81,12 @@ Largest revenue segment currently at risk <br>
 7. Product recommendations based on browsing history <br>
 
 ### 4. VIP Active (1,149 customers | $736K revenue) <br> 
-Highest spend + most recent: $640.45 average, 84 days recency <br>
-Only 1.2% of customer base <br> 
-Highest basket size: 1.4 items on average <br> 
+- Highest spend + most recent: $640.45 average, 84 days recency <br>
+- Only 1.2% of customer base <br> 
+- Highest basket size: 1.4 items on average <br> 
 ### Business Impact: <br> 
-Current revenue $733,850 (5.6%) <br>
-Lifetime value is extremely high <br> 
+- Current revenue $733,850 (5.6%) <br>
+- Lifetime value is extremely high <br> 
 
 ### Actions: <br>
 1. Welcome to VIP program email <br>
@@ -102,9 +102,9 @@ Active engagement: 84 days sicne last purchase <br>
 Moderate spend: 163.13 average <br> 
 
 ### Business Impact: <br>
-Currently 6.3% of revenue <br> 
-Active engagement = high potential <br>
-Close to VIP threshold $300 - need only $137 dollars more
+- Currently 6.3% of revenue <br> 
+- Active engagement = high potential <br>
+- Close to VIP threshold $300 - need only $137 dollars more
 ### Actions: <br>
 1. Upsell Strategy <br>
 2. Bundle deals that push cart value to $300+ <br>
@@ -112,15 +112,15 @@ Close to VIP threshold $300 - need only $137 dollars more
 4. Loyalty points accelerator (2x points this month) <br>
 
 ### 6. Mid value Cooling (11,659 customers | 1.9M revenue) <br> 
-Moderate spend + moderate recency: 164.29 average spending, 196 days average recency <br>
-14.5% of revenue <br> 
-Largest mid-value segment <br>
-Early intervention opportunity <br>
+- Moderate spend + moderate recency: 164.29 average spending, 196 days average recency <br>
+- 14.5% of revenue <br> 
+- Largest mid-value segment <br>
+- Early intervention opportunity <br>
 
-Business Impact: <br> 
-Revenue cooling: $1,915,424 <br> 
-Catching them early = higher success reate than "At Risk" <br>
-Large volume = significant total impact potential <br>
+### Business Impact: <br> 
+- Revenue cooling: $1,915,424 <br> 
+- Catching them early = higher success reate than "At Risk" <br>
+- Large volume = significant total impact potential <br>
 
 ### Actions: <br>
 1."Based on your last purchase" product emails <br>
@@ -129,9 +129,9 @@ Large volume = significant total impact potential <br>
 4. Incentives: 15% discount "welcome back" offer , free shipping on next order, loyalty points bonus
 
 ### 7. Low-Value Recent (8,690 customers | $455K revenue) <br>
-Recent but low spend: 52.34$ avg, 83 days <br>
-9% customer base <br> 
-Potential new customers still evaluating <br>
+- Recent but low spend: 52.34$ avg, 83 days <br>
+- 9% customer base <br> 
+- Potential new customers still evaluating <br>
 
 ### Actions: <br> 
 1. Nurture sequence to increase order value <br>
@@ -140,8 +140,8 @@ Potential new customers still evaluating <br>
 Goal: Upgrade 20% to Mid-Value tier within 6 months <br>
 
 ### 8. Low-Value Churned (28,765 customers | $1.5M revenue) <br>
-Low spend + old: $53.75 avg, 415 days <br>
-Largest segment by count (29.8%) <br>
+- Low spend + old: $53.75 avg, 415 days <br>
+- Largest segment by count (29.8%) <br>
 
 ### Actions: <br> 
 1. Minimal investment (low-cost email only) <br>
@@ -173,20 +173,20 @@ Implication: <br>
 3. Create compelling reasons to return (loyalty program, subscription model) <br>
 
 ## Revenue Concentration: The 8% Rule <br> 
-Finding: 8% of customers (VIP segments) generate 37% of revenue <br>
-Small group of high-value customers drives business <br>
-Proactive engagement before they show churn signals <br> 
+- Finding: 8% of customers (VIP segments) generate 37% of revenue <br>
+- Small group of high-value customers drives business <br>
+- Proactive engagement before they show churn signals <br> 
 
 ### Time to Churn: The 6 Month Window <br> 
-Finding: Customers who haven't purchased in 6+ months (Cooling Down) rapidly progress to At Risk status <br>
-120-day mark is critical intervention point <br>
-"Cooling" is the last easy save opportunity <br>
-Once customers hit 270+ days, recovery becomes expensive <br> 
+- Finding: Customers who haven't purchased in 6+ months (Cooling Down) rapidly progress to At Risk status <br>
+- 120-day mark is critical intervention point <br>
+- "Cooling" is the last easy save opportunity <br>
+- Once customers hit 270+ days, recovery becomes expensive <br> 
 
 ### Actions <br> 
-Automated triggers at 90, 120, and 180 days <br> 
-Progressive incentive escalation (10% -> 15% -> 25%) 
-Early warning system for high-value custoemrs <br> 
+- Automated triggers at 90, 120, and 180 days <br> 
+- Progressive incentive escalation (10% -> 15% -> 25%) 
+- Early warning system for high-value custoemrs <br> 
 
 
 ### SQL query <br>

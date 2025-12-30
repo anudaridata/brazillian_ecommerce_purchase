@@ -11,7 +11,7 @@ Zero Customer Retention Across All Cohorts <br>
 2. No customers made a second purchase within 1,3,4 or any subsequent months <br>
 3. All 96,478 customers in the dataset made exactly one purchase <br>
 
-** Cohort Characteristics: <br>
+### Cohort Characteristics: <br>
 - Analysis period: September 2016 to August 2018 (23 cohorts) <br>
 - Cohort size range: 1 to 7,289 customers per month <br>
 - Largest cohort: 2017-11 with 7289 customers <br>
@@ -25,11 +25,11 @@ Retention rate = (Customers returning in month N / Total cohort size) * 100 <br>
 - Calculated time elapsed between first purchase and all subsequent orders <br>
 - Aggregated by cohort and time period <br>
 - Computed retention percentages <br>
-** Analysis limited to orders with status = 'delivered' to ensure completed transactions only.
+Analysis limited to orders with status = 'delivered' to ensure completed transactions only. <br>
 
 ## Business Model Implications: <br>
-This pattern suggests Olist Operates primarily as a one-time purchase marketplace <br>
-- Potential product/service satisfaction issues <br>
+The 0% retention rate indicates that Olist Operates primarily as a one-time purchase marketplace where: <br>
+- Customer Intent: Customers purchase specific Potential product/service satisfaction issues <br>
 - Limited post-purchase engagement or follow-up <br>
 
 ### Finding 2: Most popular product categories by product: <br>

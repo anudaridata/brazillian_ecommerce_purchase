@@ -102,10 +102,12 @@ order_id is in 4 tables, product_id is in 2 tables. <br>
 ## 3. Revenue & Product Performance by Region  <br>
 ### Question: Which product categories drive the most revenue by state/region, and how has category performance changed over time?  <br>
 #### Sub-questions:  <br>
-What are the top 5 states by revenue?  <br>
-- What are the most popular product categories in each region?  <br>
-- Which categories show the fastest revenue growth month-over-month?  <br>
-- What is the revenue concentration (% from top categories)?  <br>
+1. What are the top 5 states by revenue <br>
+2. What are the top 3 popular product categories in each region? <br>
+3. What are the top 3 states per category? <br>
+4. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
+5. Which categories show the fastest revenue growth month-over-month? <br>
+6. What is the revenue concentration (% from top categories)? <br>
 
 
 ## 4. Delivery Performance Impact on Customer Satisfaction  <br>

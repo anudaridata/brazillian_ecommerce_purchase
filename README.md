@@ -93,7 +93,7 @@ order_id is in 4 tables, product_id is in 2 tables. <br>
 
 ## 2. Cohort Retention Analysis  <br>
 ### Question: What is the monthly cohort retention rate, and which customer cohorts have the best retention over time?  <br>
-#### Sub-questions:  <br>
+#### Sub-questions: -- Skipped due to retention rate 0% in all cohorts <br>
 - What percentage of customers make a second purchase within 1, 3, 6 months?  <br>
 - How does retention differ by cohort (customers grouped by first purchase month)?  <br>
 - Which cohorts show the strongest loyalty?  <br>

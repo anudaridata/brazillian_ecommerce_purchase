@@ -81,62 +81,56 @@ product_category_name_english - category name in English <br>
 ### 4. Relationships of datasets <br>
 order_id is in 4 tables, product_id is in 2 tables. <br>
 
-### 5. Questions for analysis (7 Questions) <br>
+#### Questions for analysis (7 Questions) <br>
 
-1. Customer Segmentation - RFM Analysis <br>
-Question: Who are our most valuable customers using RFM (Recency, Frequency, Monetary) analysis, and how are customers distributed across different segments? <br>
-Sub-questions:  <br>
+##1. Customer Segmentation - RFM Analysis <br>
+### Question: Who are our most valuable customers using RFM (Recency, Frequency, Monetary) analysis, and how are customers distributed across different segments? <br>
+#### Sub-questions:  <br>
 - What are the RFM scores for each customer?  <br>
 - How many customers fall into each segment (Champions, Loyal, At Risk, etc.)?  <br>
 - What is the revenue contribution of each segment?  <br>
 
 
-2. Cohort Retention Analysis  <br>
-Question: What is the monthly cohort retention rate, and which customer cohorts have the best retention over time?  <br>
-Sub-questions:  <br>
+## 2. Cohort Retention Analysis  <br>
+### Question: What is the monthly cohort retention rate, and which customer cohorts have the best retention over time?  <br>
+#### Sub-questions:  <br>
 - What percentage of customers make a second purchase within 1, 3, 6 months?  <br>
 - How does retention differ by cohort (customers grouped by first purchase month)?  <br>
 - Which cohorts show the strongest loyalty?  <br>
 
 
-3. Revenue & Product Performance by Region  <br>
-Question: Which product categories drive the most revenue by state/region, and how has category performance changed over time?  <br>
-Sub-questions:  <br>
+## 3. Revenue & Product Performance by Region  <br>
+### Question: Which product categories drive the most revenue by state/region, and how has category performance changed over time?  <br>
+#### Sub-questions:  <br>
 What are the top 5 states by revenue?  <br>
 - What are the most popular product categories in each region?  <br>
 - Which categories show the fastest revenue growth month-over-month?  <br>
 - What is the revenue concentration (% from top categories)?  <br>
 
 
-4. Delivery Performance Impact on Customer Satisfaction  <br>
-Question: How does delivery performance (on-time vs delayed) impact customer satisfaction scores and repeat purchase behavior?  <br>
-Sub-questions:  <br>
+## 4. Delivery Performance Impact on Customer Satisfaction  <br>
+### Question: How does delivery performance (on-time vs delayed) impact customer satisfaction scores and repeat purchase behavior?  <br>
+#### Sub-questions:  <br>
 - What percentage of orders are delivered on time vs delayed?  <br>
 - How do review scores differ between on-time and delayed deliveries?  <br>
 - Do customers with delayed deliveries have lower repeat purchase rates?  <br>
 - Which product categories or sellers have the worst delivery performance?  <br>
 
 
-5. Payment Method & Purchase Behavior Analysis  <br>
-Question: What payment methods are preferred by different customer segments, and how do payment choices correlate with order value and product category?  <br>
-Sub-questions:  <br>
+## 5. Payment Method & Purchase Behavior Analysis  <br>
+### Question: What payment methods are preferred by different customer segments, and how do payment choices correlate with order value and product category?  <br>
+#### Sub-questions:  <br>
 - What are the most popular payment methods overall?  <br>
 - Do high-value customers prefer different payment methods?  <br>
 - Which categories have the highest use of installment payments?  <br>
 - What is the average order value by payment type?  <br>
 
 
-6. Seasonal Sales Patterns & Trends  
-Question: What are the seasonal sales patterns, and which product categories show the strongest seasonality throughout the year?  <br>
-Sub-questions:  
+## 6. Seasonal Sales Patterns & Trends  
+### Question: What are the seasonal sales patterns, and which product categories show the strongest seasonality throughout the year?  <br>
+#### Sub-questions:  <br>
 - How do sales trend month-over-month?  <br>
 - Are there seasonal peaks (holidays, specific months)?  <br>
 - Which product categories are most/least seasonal?  <br>
 - What is the year-over-year growth rate? 
 
-7. Product Basket Analysis 
-Question: Which products are frequently bought together, and what are the cross-selling opportunities?  <br>
-Sub-questions:  <br>
-- What product category combinations appear most often in the same order?  <br>
-- What is the average basket size (products per order)?  <br>
-- Which categories have the highest cross-sell rates? 

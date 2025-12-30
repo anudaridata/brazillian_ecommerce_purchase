@@ -1,6 +1,6 @@
 ### Question 2: Cohort Retention Analysis <br>
-Question: What is the monthly cohort retention rate, and which customer cohorts have the best retention over time? <br>
-Sub-questions: <br>
+Question: What is the monthly cohort retention rate, and do any customer cohorts show repeat purchase behavior? <br>
+Sub-questions: - Skipped due to renetion rate being 0% <br>
 1. What percentage of customers make a second purchase within 1, 3, 6 months? <br>
 2. How does retention differ by cohort (customers grouped by first purchase month)? <br>
 3. Which cohorts show the strongest loyalty? <br>
@@ -29,8 +29,9 @@ Analysis limited to orders with status = 'delivered' to ensure completed transac
 
 ## Business Model Implications: <br>
 The 0% retention rate indicates that Olist Operates primarily as a one-time purchase marketplace where: <br>
-- Customer Intent: Customers purchase specific Potential product/service satisfaction issues <br>
-- Limited post-purchase engagement or follow-up <br>
+1. Customer Intent: Customers purchase specific Potential product/service satisfaction issues <br>
+2. Product Categories: Likely dominated by durable goods, special occasion items, or one time needs <br>
+3. Marketplace Structure: Functions more like a transaction facilitator than a loyalty-building retail plaform 
 
-### Finding 2: Most popular product categories by product: <br>
+
 

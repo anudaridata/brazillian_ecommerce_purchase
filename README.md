@@ -81,9 +81,9 @@ product_category_name_english - category name in English <br>
 ### 4. Relationships of datasets <br>
 order_id is in 4 tables, product_id is in 2 tables. <br>
 
-#### Questions for analysis (7 Questions) <br>
+# Questions for analysis (7 Questions) <br>
 
-##1. Customer Segmentation - RFM Analysis <br>
+## 1. Customer Segmentation - RFM Analysis <br>
 ### Question: Who are our most valuable customers using RFM (Recency, Frequency, Monetary) analysis, and how are customers distributed across different segments? <br>
 #### Sub-questions:  <br>
 - What are the RFM scores for each customer?  <br>

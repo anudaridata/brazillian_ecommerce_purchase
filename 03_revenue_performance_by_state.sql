@@ -114,7 +114,8 @@ ORDER BY customer_state, rank;
 
 
 -- Top 3 states per category
-
+-- Visualization is ommited due to many categories 
+-- Instead, I focused on few states
 WITH category_by_state AS(
 SELECT ca.product_category_name_english, ROUND(SUM(ps.payment_value),2) as total_payment, 
 c.customer_state,

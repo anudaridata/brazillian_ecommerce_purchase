@@ -26,7 +26,22 @@
 
 ## 2. What are the top 3 popular categories in each region? <br>
 
-### Top 3 Categories by major state: <br> 
+### Top 3 Categories by State: <br> 
+#### To understand regional purchasing patters, I analyzed the top-selling product categories across Brazillian states. <br>
+
+#### Methodology:
+1. Calculated total payment value by state and product category
+2. Ranked categories within each state using 'ROW_NUMBER()'
+3. Filtered to rank 1 (top category per state)
+4. Selected top 10 states by revenue using 'nlargest(10, 'total_payment') <br>
+
+##### Visuazliation
+<img width="1104" height="525" alt="top_three_categories" src="https://github.com/user-attachments/assets/36850b8a-8c16-410e-973a-ea7c06f1a42a" />
+
+### Key Insights: 
+1. **bed_bath_table category seems to dominate major economic states in Brazil** Sao Paulo, Rio de Janeiro, Minas Gerais- these states have as their #1 category, suggesting strong demand for home essentials in urban markets. <br>
+2. **Southern states show tech preference** - computer accessories seem to dominate in Rio Grande do Sul and Santa Catarina, indicating consumer behavior in Brazil's southern region, possibly reflecting higher tech adoption or income levels <br>
+3. **Regional category variation** - Despite bed_bath_table's overall dominance, categories like furniture_decor (Paraná), health_beauty (Bahia, Pernambuco, Ceará), and auto (Goiás) lead in specific states, suggesting opportunities for region-specific marketing strategies.
 
 ## 3. What are the top 3 states per category? <br> 
 

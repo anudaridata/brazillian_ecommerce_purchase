@@ -2,10 +2,8 @@
 ### Sub-questions: <br>
 1. What are the top 5 states by revenue <br>
 2. What are the top 3 popular product categories in each region? <br>
-3. What are the top 3 states per category? <br>
-4. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
-5. Which categories show the fastest revenue growth month-over-month? <br>
-6. What is the revenue concentration (% from top categories)? <br>
+3. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
+4. Which categories show the fastest revenue growth month-over-month? <br>
 
 ## Key Findings: <br>
 ## 1. Top 5 states by revenue <br>
@@ -52,11 +50,7 @@
 2. **health_beauty leads in most states by count** - While the top 3 states prefer bed_bath_table, 11 out of 27 states have health_beauty as their leading category, making it most popular category by state count (though not by revenue). <br>
 3. **Clear regional divide** - High-revenue urban centers favor home goods, while smaller states across the North regions show stronger preference for health and beauty products. <br>
 
-## 3. What are the top 3 states per category? <br> 
-
-
-
-## 4. Which categories generate most revenue and how does it differ accross Top 3 states in Brazil? <br> 
+## 3. Which categories generate most revenue and how does it differ accross Top 3 states in Brazil? <br> 
 <img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/86dd7ccd-92e5-49b3-a71d-5e593de49367" /> <br>
 ## Key Findings: <br> 
 ### Geographic Concentration <br> 
@@ -67,7 +61,54 @@
 - These categories align with the affluent demographics of Brazil's wealthiest regions <br>
 ### Business Implications <br>
 - Strong existing market presence in these 3 states suggest opportunities for deepr market penetration through targeted marketing <br>
-- Revenue concentration in southeastern Brazil presents both an advantage (established customer base) and a risk (limited geographic diversification) <br> 
+- Revenue concentration in southeastern Brazil presents both an advantage (established customer base) and a risk (limited geographic diversification) <br>
+
+### 4. Which categories show the fastest revenue growth month-over-month? <br>
+
+To calculate growth rates, I filtered categories with at least 12 months of data and removed low-revenue months to avoid volatality <br>
+```python
+# Filter to substantial categories (12+ months)
+substantial_cats = category_month_count[category_month_count >= 12].index
+monthly_revenue_filtered = monthly_revenue[monthly_revenue['category'].isin(substantial_cats)]
+
+# Calculate monthly growth
+monthly_revenue_filtered['previous_month_revenue'] = monthly_revenue_filtered.groupby('category')['monthly_revenue'].shift(1)
+monthly_revenue_filtered['mom_growth_pct'] = ((monthly_revenue_filtered['monthly_revenue'] - monthly_revenue_filtered['previous_month_revenue']) / monthly_revenue_filtered['previous_month_revenue']) * 100
+
+# Filter out low base values to reduce noise (e.g 92.78 dollars art category in year 2017 december)
+growth_data_filtered = growth_data[growth_data['previous_month_revenue'] > 500]
+```
+
+#### Methodology: 
+1. Extracted monthly revenue data for each category (Oct 2016 - Aug 2018)
+2. Filtered categories with at least 12 months of data (62 out of 71 categories)
+3. Calculated month-over-month growth percentage for each category
+4. Filtered out months with revenue > 500 R$ to reduce volatility from low base values
+5. Used median growth rate as opposed to mean growth rate to avoid distortion from outliers <br>
+<img width="1179" height="899" alt="top-10_growing_vs_declining" src="https://github.com/user-attachments/assets/e52ab14b-7bf2-4447-a5db-69998f6bc1ba" />
+
+## Key Findings: 
+### Faster Growing Categories: 
+1. **Construction tools lead growth** - construction_tools_safety (31.3%), construction_tools_lights (27.1%), and construction_tools_construction (26.8%) show the strongest consistent month-over-month growth, suggesting rising demand in the home improvement/construction sector.
+2. **Tech and lifestyle categories perform well** - Watches_gifts (28.5%), computers (26.3%), and pet_shop (25.8%) demonstrate strong growth, indicating these categories resonate with the e-commerce customer base.
+
+3. **Home appliances gaining traction** - With 25.4% median growth, home_appliances shows steady upward momentum.
+
+**Declining Categories:**
+1. **Fashion categories struggling** - Fashion_sport (-90.5%), fashio_female_clothing (-74.2%), and fashion_underwear_beach (-37.5%) show severe month-over-month declines, suggesting either seasonality, increased competition, or shifting consumer preferences.
+
+2. **Entertainment media declining** - DVDs_blu_ray (-70.9%) and music (-58.3%) reflect the digital transformation of media consumption, with physical formats losing ground.
+
+3. **Volatile categories** - Drinks showed -28% median growth despite having the highest mean growth (229%), indicating extreme volatility with occasional spikes but overall declining trend.
+
+**Strategic Recommendations:**
+- **Invest in construction tools inventory and marketing** - These categories show consistent, sustainable growth
+- **Re-evaluate fashion strategy** - Consider category-specific issues (pricing, product mix, competition) given persistent declines
+- **Monitor volatile categories carefully** - High mean but negative median growth suggests unsustainable spikes
+
+
+
+
 
 
 

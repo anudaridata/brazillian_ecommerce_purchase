@@ -2,8 +2,9 @@
 ### Sub-questions: <br>
 1. What are the top 5 states by revenue <br>
 2. What are the top 3 popular product categories in each region? <br>
-3. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
-4. Which categories show the fastest revenue growth month-over-month? <br>
+3. What are the top categories in each state? <br>
+4. Which categories generate most revenue and how does it differ across the states in Brazil? <br>
+5. Which categories show the fastest revenue growth month-over-month? <br>
 
 ## Key Findings: <br>
 ## 1. Top 5 states by revenue <br>
@@ -22,7 +23,27 @@
 - Warehouse/fulfillment centers optimally located in Southeast <br>
 - Consider regional partnerships to expand beyond top 5 sales <br>
 
-## 2. What are the most popular categories in each state? <br>
+### 2. What are the top 3 popular product categories in each region? <br>
+### Key Findings 
+1. Southeast Region Dominates
+- bed_bath_table leads with R$1.25M revenue, representing the largest market opportunity
+- Accounts for majority of overall revenue across all categories
+2. health_beauty Has Universal Appeal
+- Only category appearing in top 3 across all 5 regions
+- Indicates consistent nationwide demand regardless of location
+3. Clear Regional Preferences
+- Central-West: Auto products (R$76K)
+- North: Furniture_decor (R$26K)
+- Northeast: Watches_gifts and computers_accessories (R$260K combined)
+- South: Furniture_decor dominates (R$268K)
+- Southeast: Home essentials lead due to urban density
+4. Strategic Implications
+- Prioritize Southeast region for maximum revenue impact
+- Stock health_beauty products nationally
+- Tailor marketing campaigns to regional preferences
+<img width="1790" height="985" alt="image" src="https://github.com/user-attachments/assets/7bfc63c5-0368-4d76-9be8-a27ab03ed2cb" />
+
+## 3. What are the most popular categories in each state? <br>
 
 ### Top Categories by State: <br> 
 #### To understand regional purchasing patters, I analyzed the top-selling product categories across Brazillian states. <br>
@@ -50,7 +71,7 @@
 2. **health_beauty leads in most states by count** - While the top 3 states prefer bed_bath_table, 11 out of 27 states have health_beauty as their leading category, making it most popular category by state count (though not by revenue). <br>
 3. **Clear regional divide** - High-revenue urban centers favor home goods, while smaller states across the North regions show stronger preference for health and beauty products. <br>
 
-## 3. Which categories generate most revenue and how does it differ accross Top 3 states in Brazil? <br> 
+## 4. Which categories generate most revenue and how does it differ accross Top 3 states in Brazil? <br> 
 <img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/86dd7ccd-92e5-49b3-a71d-5e593de49367" /> <br>
 ## Key Findings: <br> 
 ### Geographic Concentration <br> 
@@ -63,7 +84,7 @@
 - Strong existing market presence in these 3 states suggest opportunities for deepr market penetration through targeted marketing <br>
 - Revenue concentration in southeastern Brazil presents both an advantage (established customer base) and a risk (limited geographic diversification) <br>
 
-### 4. Which categories show the fastest revenue growth month-over-month? <br>
+### 5. Which categories show the fastest revenue growth month-over-month? <br>
 
 To calculate growth rates, I filtered categories with at least 12 months of data and removed low-revenue months to avoid volatality <br>
 ```python

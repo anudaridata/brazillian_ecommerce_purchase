@@ -1,0 +1,82 @@
+"customer_state","customer_state_full","product_category_name_english","total_payment","rank"
+"AC","Acre","furniture_decor",5261.23,1
+"AC","Acre","sports_leisure",2071.54,2
+"AC","Acre","health_beauty",2067.62,3
+"AL","Alagoas","health_beauty",14741.33,1
+"AL","Alagoas","computers_accessories",14280.47,2
+"AL","Alagoas","watches_gifts",13249.34,3
+"AM","Amazonas","computers_accessories",5866.85,1
+"AM","Amazonas","health_beauty",4566.7,2
+"AM","Amazonas","garden_tools",2267.8,3
+"AP","Amapá","computers_accessories",4128.95,1
+"AP","Amapá","watches_gifts",2016.42,2
+"AP","Amapá","bed_bath_table",1899.93,3
+"BA","Bahia","health_beauty",65382.14,1
+"BA","Bahia","computers_accessories",58308.56,2
+"BA","Bahia","sports_leisure",57880.04,3
+"CE","Ceará","health_beauty",45615.12,1
+"CE","Ceará","watches_gifts",35362.19,2
+"CE","Ceará","computers_accessories",19148.15,3
+"DF","Federal District","computers_accessories",38634.68,1
+"DF","Federal District","health_beauty",38294.58,2
+"DF","Federal District","sports_leisure",36794.64,3
+"ES","Espírito Santo","bed_bath_table",34481.72,1
+"ES","Espírito Santo","watches_gifts",32627.85,2
+"ES","Espírito Santo","fixed_telephony",30248.54,3
+"GO","Goiás","auto",57732,1
+"GO","Goiás","garden_tools",42451.17,2
+"GO","Goiás","housewares",41963.9,3
+"MA","Maranhão","computers_accessories",32283.55,1
+"MA","Maranhão","health_beauty",17625.19,2
+"MA","Maranhão","sports_leisure",14281.47,3
+"MG","Minas Gerais","bed_bath_table",216969.38,1
+"MG","Minas Gerais","health_beauty",196285.96,2
+"MG","Minas Gerais","computers_accessories",170939.37,3
+"MS","Mato Grosso do Sul","sports_leisure",14432.14,1
+"MS","Mato Grosso do Sul","health_beauty",14065.61,2
+"MS","Mato Grosso do Sul","housewares",13155.19,3
+"MT","Mato Grosso","health_beauty",21028.01,1
+"MT","Mato Grosso","signaling_and_security",19457.04,2
+"MT","Mato Grosso","auto",18449.07,3
+"PA","Pará","health_beauty",31145.63,1
+"PA","Pará","watches_gifts",24090.11,2
+"PA","Pará","furniture_decor",19757.66,3
+"PB","Paraíba","health_beauty",19472.68,1
+"PB","Paraíba","signaling_and_security",17069.76,2
+"PB","Paraíba","computers_accessories",15726.87,3
+"PE","Pernambuco","health_beauty",55903.7,1
+"PE","Pernambuco","watches_gifts",39978.61,2
+"PE","Pernambuco","sports_leisure",27939.5,3
+"PI","Piauí","auto",20026.82,1
+"PI","Piauí","health_beauty",14944.45,2
+"PI","Piauí","bed_bath_table",10397.57,3
+"PR","Paraná","furniture_decor",114060.51,1
+"PR","Paraná","watches_gifts",85401.59,2
+"PR","Paraná","sports_leisure",80240.53,3
+"RJ","Rio de Janeiro","bed_bath_table",242431.81,1
+"RJ","Rio de Janeiro","watches_gifts",207651.19,2
+"RJ","Rio de Janeiro","computers_accessories",189763.18,3
+"RN","Rio Grande do Norte","health_beauty",16112.05,1
+"RN","Rio Grande do Norte","watches_gifts",12269.07,2
+"RN","Rio Grande do Norte","telephony",6783.72,3
+"RO","Rondônia","health_beauty",8517.22,1
+"RO","Rondônia","sports_leisure",5202.34,2
+"RO","Rondônia","watches_gifts",5010.18,3
+"RR","","sports_leisure",2579.08,1
+"RR","","bed_bath_table",1532.36,2
+"RR","","furniture_decor",1172.05,3
+"RS","Rio Grande do Sul","computers_accessories",108472.88,1
+"RS","Rio Grande do Sul","bed_bath_table",93423.36,2
+"RS","Rio Grande do Sul","furniture_decor",93386.58,3
+"SC","Santa Catarina","computers_accessories",63469.16,1
+"SC","Santa Catarina","sports_leisure",60391.48,2
+"SC","Santa Catarina","furniture_decor",60206.09,3
+"SE","Sergipe","health_beauty",9639.74,1
+"SE","Sergipe","furniture_decor",8544.12,2
+"SE","Sergipe","garden_tools",7908.35,3
+"SP","São Paulo","bed_bath_table",756727.97,1
+"SP","São Paulo","computers_accessories",622332.38,2
+"SP","São Paulo","health_beauty",604558.9,3
+"TO","Tocantins","health_beauty",8368.96,1
+"TO","Tocantins","sports_leisure",6961.25,2
+"TO","Tocantins","watches_gifts",6719.31,3

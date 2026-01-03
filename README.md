@@ -110,29 +110,4 @@ order_id is in 4 tables, product_id is in 2 tables. <br>
 6. What is the revenue concentration (% from top categories)? <br>
 
 
-## 4. Delivery Performance Impact on Customer Satisfaction  <br>
-### Question: How does delivery performance (on-time vs delayed) impact customer satisfaction scores and repeat purchase behavior?  <br>
-#### Sub-questions:  <br>
-- What percentage of orders are delivered on time vs delayed?  <br>
-- How do review scores differ between on-time and delayed deliveries?  <br>
-- Do customers with delayed deliveries have lower repeat purchase rates?  <br>
-- Which product categories or sellers have the worst delivery performance?  <br>
-
-
-## 5. Payment Method & Purchase Behavior Analysis  <br>
-### Question: What payment methods are preferred by different customer segments, and how do payment choices correlate with order value and product category?  <br>
-#### Sub-questions:  <br>
-- What are the most popular payment methods overall?  <br>
-- Do high-value customers prefer different payment methods?  <br>
-- Which categories have the highest use of installment payments?  <br>
-- What is the average order value by payment type?  <br>
-
-
-## 6. Seasonal Sales Patterns & Trends  
-### Question: What are the seasonal sales patterns, and which product categories show the strongest seasonality throughout the year?  <br>
-#### Sub-questions:  <br>
-- How do sales trend month-over-month?  <br>
-- Are there seasonal peaks (holidays, specific months)?  <br>
-- Which product categories are most/least seasonal?  <br>
-- What is the year-over-year growth rate? 
 

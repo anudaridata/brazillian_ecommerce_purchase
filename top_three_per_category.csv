@@ -1,0 +1,213 @@
+"product_category_name_english","customer_state","customer_state_full","total_payment","rank","pct_of_category"
+"agro_industry_and_commerce","MG","Minas Gerais",44016.72,1,38.07
+"agro_industry_and_commerce","SP","São Paulo",30871.12,2,26.7
+"agro_industry_and_commerce","RJ","Rio de Janeiro",9770.67,3,8.45
+"air_conditioning","SP","São Paulo",42274.58,1,47.58
+"air_conditioning","RJ","Rio de Janeiro",23252.5,2,26.17
+"air_conditioning","MG","Minas Gerais",6258.3,3,7.04
+"art","SP","São Paulo",16204.96,1,56.86
+"art","RJ","Rio de Janeiro",3725.1,2,13.07
+"art","MG","Minas Gerais",1699.96,3,5.97
+"arts_and_craftmanship","SP","São Paulo",1189.39,1,51.13
+"arts_and_craftmanship","MG","Minas Gerais",670.76,2,28.84
+"arts_and_craftmanship","SC","Santa Catarina",314.32,3,13.51
+"audio","SP","São Paulo",20220.97,1,33.6
+"audio","RJ","Rio de Janeiro",11637.86,2,19.34
+"audio","MG","Minas Gerais",6750.72,3,11.22
+"auto","SP","São Paulo",268468.08,1,32.2
+"auto","MG","Minas Gerais",99769.84,2,11.97
+"auto","RJ","Rio de Janeiro",82395.77,3,9.88
+"baby","SP","São Paulo",191316.53,1,36.4
+"baby","MG","Minas Gerais",64107.38,2,12.2
+"baby","RJ","Rio de Janeiro",53202.38,3,10.12
+"bed_bath_table","SP","São Paulo",756727.97,1,44.71
+"bed_bath_table","RJ","Rio de Janeiro",242431.81,2,14.32
+"bed_bath_table","MG","Minas Gerais",216969.38,3,12.82
+"books_general_interest","SP","São Paulo",24614.77,1,39.18
+"books_general_interest","MG","Minas Gerais",6478.74,2,10.31
+"books_general_interest","RJ","Rio de Janeiro",4990.75,3,7.94
+"books_imported","SP","São Paulo",3480,1,54.01
+"books_imported","MA","Maranhão",804.96,2,12.49
+"books_imported","RJ","Rio de Janeiro",755.18,3,11.72
+"books_technical","SP","São Paulo",8809.93,1,36.05
+"books_technical","MG","Minas Gerais",2707.41,2,11.08
+"books_technical","RJ","Rio de Janeiro",2152.29,3,8.81
+"cds_dvds_musicals","RS","Rio Grande do Sul",549.99,1,45.85
+"cds_dvds_musicals","SP","São Paulo",409.64,2,34.15
+"cds_dvds_musicals","RJ","Rio de Janeiro",122.22,3,10.19
+"christmas_supplies","PA","Pará",5589.72,1,29.59
+"christmas_supplies","SP","São Paulo",3292.61,2,17.43
+"christmas_supplies","SC","Santa Catarina",1900.56,3,10.06
+"cine_photo","SP","São Paulo",3020.72,1,32.68
+"cine_photo","RS","Rio Grande do Sul",1342.88,2,14.53
+"cine_photo","SC","Santa Catarina",1213.58,3,13.13
+"computers","SP","São Paulo",82904.25,1,30.18
+"computers","BA","Bahia",37888.5,2,13.79
+"computers","RJ","Rio de Janeiro",24420.13,3,8.89
+"computers_accessories","SP","São Paulo",622332.38,1,40.17
+"computers_accessories","RJ","Rio de Janeiro",189763.18,2,12.25
+"computers_accessories","MG","Minas Gerais",170939.37,3,11.03
+"consoles_games","SP","São Paulo",73413.55,1,39.94
+"consoles_games","MG","Minas Gerais",24000.23,2,13.06
+"consoles_games","RJ","Rio de Janeiro",20930.72,3,11.39
+"construction_tools_construction","SP","São Paulo",101062.51,1,42.49
+"construction_tools_construction","RJ","Rio de Janeiro",33891.74,2,14.25
+"construction_tools_construction","MG","Minas Gerais",30314.17,3,12.74
+"construction_tools_lights","SP","São Paulo",30747.86,1,43.71
+"construction_tools_lights","MG","Minas Gerais",10061.19,2,14.3
+"construction_tools_lights","RS","Rio Grande do Sul",5518.32,3,7.84
+"construction_tools_safety","SP","São Paulo",26020.44,1,42.7
+"construction_tools_safety","MG","Minas Gerais",7601.77,2,12.48
+"construction_tools_safety","PR","Paraná",4900.29,3,8.04
+"cool_stuff","SP","São Paulo",245073.71,1,32.91
+"cool_stuff","RJ","Rio de Janeiro",97561.95,2,13.1
+"cool_stuff","MG","Minas Gerais",86486.54,3,11.61
+"costruction_tools_garden","SP","São Paulo",13309.41,1,32.07
+"costruction_tools_garden","RJ","Rio de Janeiro",10030.02,2,24.16
+"costruction_tools_garden","MG","Minas Gerais",5067.15,3,12.21
+"costruction_tools_tools","SP","São Paulo",7407.24,1,35.16
+"costruction_tools_tools","GO","Goiás",5042.39,2,23.93
+"costruction_tools_tools","MG","Minas Gerais",2523.71,3,11.98
+"diapers_and_hygiene","SP","São Paulo",3522.67,1,85.37
+"diapers_and_hygiene","RJ","Rio de Janeiro",230.6,2,5.59
+"diapers_and_hygiene","PR","Paraná",135.93,3,3.29
+"drinks","RJ","Rio de Janeiro",34281.01,1,49.75
+"drinks","SP","São Paulo",19014.18,2,27.59
+"drinks","PR","Paraná",4504.41,3,6.54
+"dvds_blu_ray","SP","São Paulo",3460.95,1,53.93
+"dvds_blu_ray","RJ","Rio de Janeiro",737.3,2,11.49
+"dvds_blu_ray","MS","Mato Grosso do Sul",498.54,3,7.77
+"electronics","SP","São Paulo",74278.15,1,30.21
+"electronics","RJ","Rio de Janeiro",39986.49,2,16.26
+"electronics","MG","Minas Gerais",37891.9,3,15.41
+"fashio_female_clothing","SP","São Paulo",3045.43,1,62.12
+"fashio_female_clothing","MG","Minas Gerais",585.1,2,11.93
+"fashio_female_clothing","PB","Paraíba",304.32,3,6.21
+"fashion_bags_accessories","SP","São Paulo",83572.48,1,39.14
+"fashion_bags_accessories","MG","Minas Gerais",29438.52,2,13.79
+"fashion_bags_accessories","RJ","Rio de Janeiro",23370.38,3,10.95
+"fashion_childrens_clothes","SP","São Paulo",380.97,1,52.99
+"fashion_childrens_clothes","RJ","Rio de Janeiro",124.52,2,17.32
+"fashion_childrens_clothes","BA","Bahia",107.06,3,14.89
+"fashion_male_clothing","SP","São Paulo",6499.02,1,38.86
+"fashion_male_clothing","MG","Minas Gerais",3063.31,2,18.32
+"fashion_male_clothing","PR","Paraná",1626.55,3,9.73
+"fashion_shoes","SP","São Paulo",9079.93,1,28.59
+"fashion_shoes","MG","Minas Gerais",4348.43,2,13.69
+"fashion_shoes","RJ","Rio de Janeiro",4029.66,3,12.69
+"fashion_sport","SP","São Paulo",1170.75,1,32.47
+"fashion_sport","PA","Pará",1048.48,2,29.08
+"fashion_sport","MA","Maranhão",314.37,3,8.72
+"fashion_underwear_beach","SP","São Paulo",4168.02,1,33.57
+"fashion_underwear_beach","RJ","Rio de Janeiro",2273.84,2,18.31
+"fashion_underwear_beach","MG","Minas Gerais",1879.45,3,15.14
+"fixed_telephony","RJ","Rio de Janeiro",115214.61,1,59.9
+"fixed_telephony","ES","Espírito Santo",30248.54,2,15.73
+"fixed_telephony","SP","São Paulo",20906.57,3,10.87
+"flowers","SP","São Paulo",784.47,1,35.45
+"flowers","RJ","Rio de Janeiro",567.98,2,25.67
+"flowers","PE","Pernambuco",290.24,3,13.12
+"food","SP","São Paulo",23782.14,1,52.45
+"food","RJ","Rio de Janeiro",4971.23,2,10.96
+"food","MG","Minas Gerais",3019.12,3,6.66
+"food_drink","SP","São Paulo",11499.58,1,43.22
+"food_drink","RJ","Rio de Janeiro",5624.96,2,21.14
+"food_drink","MG","Minas Gerais",3071.09,3,11.54
+"furniture_bedroom","SP","São Paulo",16785.5,1,55.85
+"furniture_bedroom","RJ","Rio de Janeiro",5223.4,2,17.38
+"furniture_bedroom","MG","Minas Gerais",2419.97,3,8.05
+"furniture_decor","SP","São Paulo",533872.18,1,38.29
+"furniture_decor","RJ","Rio de Janeiro",177682.75,2,12.74
+"furniture_decor","MG","Minas Gerais",154998.2,3,11.12
+"furniture_living_room","SP","São Paulo",51629.39,1,38.44
+"furniture_living_room","RJ","Rio de Janeiro",34665.14,2,25.81
+"furniture_living_room","MG","Minas Gerais",11439.49,3,8.52
+"furniture_mattress_and_upholstery","SP","São Paulo",2868.42,1,48.58
+"furniture_mattress_and_upholstery","RJ","Rio de Janeiro",1368.35,2,23.17
+"furniture_mattress_and_upholstery","MG","Minas Gerais",723.4,3,12.25
+"garden_tools","SP","São Paulo",254857.78,1,31.44
+"garden_tools","RJ","Rio de Janeiro",113245.71,2,13.97
+"garden_tools","MG","Minas Gerais",102524.02,3,12.65
+"health_beauty","SP","São Paulo",604558.9,1,37.3
+"health_beauty","MG","Minas Gerais",196285.96,2,12.11
+"health_beauty","RJ","Rio de Janeiro",178266.9,3,11
+"home_appliances","SP","São Paulo",38486.77,1,41.01
+"home_appliances","RJ","Rio de Janeiro",10377.39,2,11.06
+"home_appliances","MG","Minas Gerais",7144.1,3,7.61
+"home_appliances_2","SP","São Paulo",35754.42,1,30.08
+"home_appliances_2","RJ","Rio de Janeiro",30408.73,2,25.58
+"home_appliances_2","RS","Rio Grande do Sul",11599.71,3,9.76
+"home_comfort_2","SP","São Paulo",881.22,1,51.52
+"home_comfort_2","RJ","Rio de Janeiro",280,2,16.37
+"home_comfort_2","GO","Goiás",200.22,3,11.71
+"home_confort","SP","São Paulo",38846.88,1,46.42
+"home_confort","RJ","Rio de Janeiro",12198.42,2,14.58
+"home_confort","MG","Minas Gerais",11307.36,3,13.51
+"home_construction","SP","São Paulo",55059.84,1,40.9
+"home_construction","RS","Rio Grande do Sul",14748.22,2,10.96
+"home_construction","RJ","Rio de Janeiro",12505.4,3,9.29
+"housewares","SP","São Paulo",434929.47,1,40.66
+"housewares","MG","Minas Gerais",135835.48,2,12.7
+"housewares","RJ","Rio de Janeiro",129491.59,3,12.1
+"industry_commerce_and_business","SP","São Paulo",24682.11,1,44.66
+"industry_commerce_and_business","RJ","Rio de Janeiro",5579.88,2,10.1
+"industry_commerce_and_business","RS","Rio Grande do Sul",5271.5,3,9.54
+"kitchen_dining_laundry_garden_furniture","SP","São Paulo",39602.85,1,53.95
+"kitchen_dining_laundry_garden_furniture","RJ","Rio de Janeiro",10676.84,2,14.54
+"kitchen_dining_laundry_garden_furniture","PR","Paraná",5978.73,3,8.14
+"la_cuisine","SP","São Paulo",1235.04,1,42.39
+"la_cuisine","SC","Santa Catarina",546.3,2,18.75
+"la_cuisine","RS","Rio Grande do Sul",516.64,3,17.73
+"luggage_accessories","SP","São Paulo",76327.36,1,41.25
+"luggage_accessories","MG","Minas Gerais",29162.78,2,15.76
+"luggage_accessories","RJ","Rio de Janeiro",19734.84,3,10.66
+"market_place","SP","São Paulo",16021.91,1,35.91
+"market_place","MA","Maranhão",4051.03,2,9.08
+"market_place","RJ","Rio de Janeiro",3892.08,3,8.72
+"music","SP","São Paulo",2317.48,1,33.58
+"music","GO","Goiás",1244.12,2,18.03
+"music","RJ","Rio de Janeiro",1153.57,3,16.71
+"musical_instruments","SP","São Paulo",77196.37,1,34.91
+"musical_instruments","MG","Minas Gerais",33804.81,2,15.29
+"musical_instruments","RJ","Rio de Janeiro",23818.69,3,10.77
+"office_furniture","SP","São Paulo",226498.76,1,35.61
+"office_furniture","RJ","Rio de Janeiro",124116.6,2,19.51
+"office_furniture","MG","Minas Gerais",56042.37,3,8.81
+"party_supplies","SP","São Paulo",1929.44,1,32.49
+"party_supplies","MG","Minas Gerais",1297.26,2,21.84
+"party_supplies","RS","Rio Grande do Sul",730.72,3,12.3
+"perfumery","SP","São Paulo",202988.29,1,40.9
+"perfumery","RJ","Rio de Janeiro",67600.6,2,13.62
+"perfumery","MG","Minas Gerais",58566.56,3,11.8
+"pet_shop","SP","São Paulo",130905.53,1,42.54
+"pet_shop","MG","Minas Gerais",45248.85,2,14.7
+"pet_shop","RJ","Rio de Janeiro",33940.18,3,11.03
+"security_and_services","RO","Rondônia",209.06,1,64.42
+"security_and_services","DF","Federal District",115.45,2,35.58
+"signaling_and_security","MT","Mato Grosso",19457.04,1,28.5
+"signaling_and_security","PB","Paraíba",17069.76,2,25.01
+"signaling_and_security","SP","São Paulo",14658.63,3,21.47
+"small_appliances","SP","São Paulo",85865.61,1,39.57
+"small_appliances","RJ","Rio de Janeiro",32209.48,2,14.84
+"small_appliances","MG","Minas Gerais",19473.13,3,8.97
+"small_appliances_home_oven_and_coffee","SP","São Paulo",18268.64,1,36.33
+"small_appliances_home_oven_and_coffee","PR","Paraná",8924.98,2,17.75
+"small_appliances_home_oven_and_coffee","MG","Minas Gerais",4991.66,3,9.93
+"sports_leisure","SP","São Paulo",509044.62,1,37.72
+"sports_leisure","RJ","Rio de Janeiro",174834.05,2,12.96
+"sports_leisure","MG","Minas Gerais",153371.65,3,11.37
+"stationery","SP","São Paulo",114533.08,1,37.1
+"stationery","RJ","Rio de Janeiro",41973.23,2,13.6
+"stationery","MG","Minas Gerais",36314.07,3,11.76
+"tablets_printing_image","SP","São Paulo",3357.62,1,33.43
+"tablets_printing_image","MG","Minas Gerais",1307.19,2,13.02
+"tablets_printing_image","ES","Espírito Santo",1094.04,3,10.89
+"telephony","SP","São Paulo",139977.31,1,29.79
+"telephony","RJ","Rio de Janeiro",49568.26,2,10.55
+"telephony","RS","Rio Grande do Sul",48385.1,3,10.3
+"toys","SP","São Paulo",228055.94,1,37.78
+"toys","RJ","Rio de Janeiro",91610.93,2,15.18
+"toys","MG","Minas Gerais",74700.79,3,12.38
+"watches_gifts","SP","São Paulo",492762.84,1,35.52
+"watches_gifts","RJ","Rio de Janeiro",207651.19,2,14.97
+"watches_gifts","MG","Minas Gerais",137957.88,3,9.94

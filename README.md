@@ -86,17 +86,17 @@ order_id is in 4 tables, product_id is in 2 tables. <br>
 ## 1. Customer Segmentation - RFM Analysis <br>
 ### Question: Who are our most valuable customers using RFM (Recency, Frequency, Monetary) analysis, and how are customers distributed across different segments? <br>
 #### Sub-questions:  <br>
-- What are the RFM scores for each customer?  <br>
-- How many customers fall into each segment (Champions, Loyal, At Risk, etc.)?  <br>
-- What is the revenue contribution of each segment?  <br>
+1. What are the RFM scores for each customer?  <br>
+2. How many customers fall into each segment (Champions, Loyal, At Risk, etc.)?  <br>
+3. What is the revenue contribution of each segment?  <br>
 
 
 ## 2. Cohort Retention Analysis  <br>
 ### Question: What is the monthly cohort retention rate, and which customer cohorts have the best retention over time?  <br>
 #### Sub-questions: -- Skipped due to retention rate 0% in all cohorts <br>
-- What percentage of customers make a second purchase within 1, 3, 6 months?  <br>
-- How does retention differ by cohort (customers grouped by first purchase month)?  <br>
-- Which cohorts show the strongest loyalty?  <br>
+1. What percentage of customers make a second purchase within 1, 3, 6 months?  <br>
+2. How does retention differ by cohort (customers grouped by first purchase month)?  <br>
+3. Which cohorts show the strongest loyalty?  <br>
 
 
 ## 3. Revenue & Product Performance by Region  <br>
